@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "components",
+			"path": "components"
+		},
+		{
+			"name": "merchant",
+			"path": "merchant"
+		},
+		{
+			"name": "base",
+			"path": "base"
+		},
+		{
+			"name": "user-info",
+			"path": "user-info"
+		},
+		{
+			"name": "Micro-frontend-Exploration",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
