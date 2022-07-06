@@ -3,10 +3,7 @@ import Vue from 'vue'
 
 export default Vue.component("micro-tag", {
   props: {
-    type: {
-      type: String,
-      default: "default"
-    },
+    type: String,
     size: String
   },
   render (h) {
