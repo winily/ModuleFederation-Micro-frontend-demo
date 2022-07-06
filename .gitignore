@@ -1,5 +1,4 @@
 /.DS_Store
-/node_modules
-/package.json
+node_modules
 /start_mac.sh
-/yarn.lock
+yarn.lock
